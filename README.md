@@ -13,9 +13,9 @@ If you’re a good fit for this role, it should just be a bit of fun! No traps, 
 
 ## 📝 Logistics
 
-1. Fork this starter project
-2. Make your edits according to the spec below
-3. Create a pull request with your changes
+1. Make your own GitHub repo with this README.md file
+2. Make commits as you would in your day to day work
+3. Send a link to your repo to brooke@tbh.us once you’re done
 
 ## 📜 Task
 
